@@ -114,26 +114,22 @@ img.perfil {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-
-
 }
 
 .skills .skills-itens {
   text-align: center;
-
 }
 
-.skills .skills-itens h5{
-  color: #4F4F4F;
-  font-size:72px;
+.skills .skills-itens h5 {
+  color: #4f4f4f;
+  font-size: 72px;
   font-weight: 700;
-
 }
 
-.skills .skills-itens p{
+.skills .skills-itens p {
   color: var(--cor-primaria);
   font-size: 24px;
-
+}
 .habilidades h6 {
   color: #535353;
   font-size: 36px;
@@ -141,9 +137,8 @@ img.perfil {
   margin-top: 20px;
 }
 
-.width-50{
+.width-50 {
   width: 50%;
-
 }
 
 .input-custon {
@@ -151,24 +146,57 @@ img.perfil {
   background-color: transparent;
   margin: 30px 0;
   border: 0;
-  border-bottom: 1px solid #4F4F4F;
+  border-bottom: 1px solid #4f4f4f;
 }
 
-.text-area-custon{
+.text-area-custon {
   width: 100%;
   background-color: transparent;
   margin: 30px 0;
-  border: 1px solid #4F4F4F;
-
+  border: 1px solid #4f4f4f;
 }
 
-.button{
+.button {
   background-color: var(--cor-primaria);
   padding: 10px 30px;
   color: white;
   border: none;
-
 }
 
-.center{
+.center {
   text-align: center;
+}
+
+.width-50 {
+  width: 50%;
+}
+
+.input-custom {
+  width: 100%;
+  background-color: transparent;
+  margin: 30px 0;
+  border: 0;
+  border-bottom: 1px solid #4f4f4f;
+}
+
+.textarea-custom {
+  width: 100%;
+  background-color: transparent;
+  margin: 30px 0;
+  border: 1px solid #4f4f4f;
+}
+
+.spacing-2 {
+  margin-right: 50px;
+}
+
+.button {
+  background: #27ae60;
+  padding: 10px 30px;
+  color: white;
+  border: none;
+}
+
+.center {
+  text-align: center;
+}
